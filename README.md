@@ -1,4 +1,4 @@
-# myapp
+# NestJS first steps
 
 ## Description
 
